@@ -3,7 +3,7 @@ message: "If you use this code, please cite the article below."
 title: "DRG-PanCancer: analysis code for the pan-cancer study of disulfidptosis-related genes"
 type: software
 license: MIT
-repository-code: "https://github.com/Sajjadeslamkhah/drg-pancancer"
+repository-code: "https://github.com/Sajjadeslamkhah/DRG-PanCancer"
 authors:
   - family-names: Kus
     given-names: Zeynep

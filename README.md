@@ -52,8 +52,8 @@ Approximate run times on a standard Colab runtime: main pipeline about 60 min on
 ### Local machine
 
 ```bash
-git clone https://github.com/Sajjadeslamkhah/drg-pancancer.git
-cd drg-pancancer
+git clone https://github.com/Sajjadeslamkhah/DRG-PanCancer.git
+cd DRG-PanCancer
 pip install -r requirements.txt
 
 python src/drg_pancancer_pipeline.py --base ./DRG_PanCancer          # main analysis
