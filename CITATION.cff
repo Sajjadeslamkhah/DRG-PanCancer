@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "DRG-PanCancer: analysis code for the pan-cancer study of disulfidptosis-related genes"
+type: software
+license: MIT
+repository-code: "https://github.com/Sajjadeslamkhah/drg-pancancer"
+authors:
+  - family-names: Kus
+    given-names: Zeynep
+  - family-names: Eslamkhah
+    given-names: Sajjad
+  - family-names: Gulmez
+    given-names: Hakan
+  - family-names: Yavas
+    given-names: Cuneyd
+  - family-names: Arvas
+    given-names: Yunus Emre
+  - family-names: Yilmaz
+    given-names: Ilknur
+preferred-citation:
+  type: article
+  title: "Disulfidptosis-Related Genes Comprise Two Functionally Distinct, Transcriptionally Uncoupled Subsets with Complementary Prognostic Associations: An Integrated Pan-Cancer Analysis of TCGA Data"
+  journal: "International Journal of Molecular Sciences"
+  year: 2026
+  status: submitted
+  authors:
+    - family-names: Kus
+      given-names: Zeynep
+    - family-names: Eslamkhah
+      given-names: Sajjad
+    - family-names: Gulmez
+      given-names: Hakan
+    - family-names: Yavas
+      given-names: Cuneyd
+    - family-names: Arvas
+      given-names: Yunus Emre
+    - family-names: Yilmaz
+      given-names: Ilknur
