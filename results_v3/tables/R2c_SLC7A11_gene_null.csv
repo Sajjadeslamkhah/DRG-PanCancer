@@ -1,0 +1,2 @@
+gene,pathway,adjustment,observed_median_rho,null_median,null_q95,empirical_p,n_null
+SLC7A11,oxPPP_strict,purity+NRF2,0.02799175217365009,-0.051768500120572075,0.22899526899875233,0.3026973026973027,1000

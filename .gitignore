@@ -19,3 +19,7 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
+
+# published summary outputs of the revision analyses (tracked)
+!results_v3/
+!results_v3/**
