@@ -888,7 +888,7 @@ def make_figure(R1, R2, R6null, T, F):
     ax = axes[1, 0]
     ax.hist(R2["null_med"], bins=40, color="#BDBDBD")
     ax.axvline(R2["obs_med"], color="#B2182B", lw=1.4)
-    ax.set_title("D  SLC7A11 ~ oxidative PPP | purity, NRF2", loc="left", fontsize=7.5)
+    ax.set_title("D  SLC7A11 ~ core PPP set | purity, NRF2", loc="left", fontsize=7.5)
     ax.set_xlabel("median partial ρ (random matched genes)")
     for k in range(2):
         ax = axes[1, 1 + k]
