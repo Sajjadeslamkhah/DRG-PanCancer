@@ -22,7 +22,11 @@ preferred-citation:
   title: "Disulfidptosis-Related Genes Comprise Two Functionally Distinct, Transcriptionally Uncoupled Subsets with Complementary Prognostic Associations: An Integrated Pan-Cancer Analysis of TCGA Data"
   journal: "International Journal of Molecular Sciences"
   year: 2026
-  status: submitted
+  volume: 27
+  issue: 22
+  start: 10092
+  doi: "10.3390/ijms272210092"
+  url: "https://doi.org/10.3390/ijms272210092"
   authors:
     - family-names: Kus
       given-names: Zeynep

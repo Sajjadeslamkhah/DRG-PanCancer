@@ -4,7 +4,7 @@ Analysis code for the article
 
 > **Disulfidptosis-Related Genes Comprise Two Functionally Distinct, Transcriptionally Uncoupled Subsets with Complementary Prognostic Associations: An Integrated Pan-Cancer Analysis of TCGA Data**
 > Zeynep Kus, Sajjad Eslamkhah, Hakan Gulmez, Cuneyd Yavas, Yunus Emre Arvas, Ilknur Yilmaz
-> *International Journal of Molecular Sciences* (under review)
+> *International Journal of Molecular Sciences* **2026**, *27*(22), 10092. https://doi.org/10.3390/ijms272210092
 
 The code reproduces every table and figure of the article from public data, starting from the raw files.
 
@@ -102,7 +102,22 @@ Correspondence between code and manuscript:
 
 ## Citation
 
-If you use this code, please cite the article above (see `CITATION.cff`). The citation will be updated with the DOI upon publication.
+If you use this code, please cite the article (also available in `CITATION.cff`):
+
+Kus, Z., Eslamkhah, S., Gulmez, H., Yavas, C., Arvas, Y. E., & Yilmaz, I. (2026). Disulfidptosis-Related Genes Comprise Two Functionally Distinct, Transcriptionally Uncoupled Subsets with Complementary Prognostic Associations: An Integrated Pan-Cancer Analysis of TCGA Data. *International Journal of Molecular Sciences*, *27*(22), 10092. https://doi.org/10.3390/ijms272210092
+
+```bibtex
+@article{Kus2026DRG,
+  author  = {Kus, Zeynep and Eslamkhah, Sajjad and Gulmez, Hakan and Yavas, Cuneyd and Arvas, Yunus Emre and Yilmaz, Ilknur},
+  title   = {Disulfidptosis-Related Genes Comprise Two Functionally Distinct, Transcriptionally Uncoupled Subsets with Complementary Prognostic Associations: An Integrated Pan-Cancer Analysis of {TCGA} Data},
+  journal = {International Journal of Molecular Sciences},
+  year    = {2026},
+  volume  = {27},
+  number  = {22},
+  pages   = {10092},
+  doi     = {10.3390/ijms272210092}
+}
+```
 
 ## License
 
